@@ -1,5 +1,7 @@
 # Project Service
 
+![projectmodule](https://github.com/user-attachments/assets/dfd45da7-3d71-47fc-a383-a335b28edf95)
+
 The Project Service is responsible for managing projects and their associated resources. It handles operations such as creating, updating, deleting, and linking resources to projects.
 
 ## Architecture
